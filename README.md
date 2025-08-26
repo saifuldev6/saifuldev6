@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Saiful
 
-<!--
-**saifuldev6/saifuldev6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm passionate about coding and continuous learning
+- 💻 Software Developer
+- 🤝 Open to collaborations and interesting projects
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifuldev6&show_icons=true&theme=radical)
+
+## 📫 How to reach me:
+
+- GitHub: [@saifuldev6](https://github.com/saifuldev6)
+
+### 🌟 Fun fact
+
+Did you know? The first computer "bug" was actually a real bug - a moth found trapped in a computer relay in 1947!
+
+---
+
+⭐️ From [saifuldev6](https://github.com/saifuldev6)
